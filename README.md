@@ -4,11 +4,14 @@ Ping Pong game with php socket and html canvas
 # Demo
 ![Demo](http://s8.picofile.com/file/8317586650/pingpong.png)
 
+# Persian document
+You can read this document in persian with [This Link](https://ufile.io/b5psn)
+
 # Usage
-First , you should copy files in your localhost ( that can be create with Xampp ) .
-Then just open `server.php` and `index.php` files to edit server and port address .
-Run your server.php file in browser .
-Then you can open index.php file and enjoy from game ( game starts after second user ) .
+First , you should copy files in your localhost ( that can be create with Xampp ) .<br>
+Then just open `server.php` and `index.php` files to edit server and port address .<br>
+Run your server.php file in browser .<br>
+Then you can open index.php file and enjoy from game ( game starts after second user ) .<br>
 
 # General structure
 First , visitors connect to server with this code in index.php and server determine turn and side of user .
